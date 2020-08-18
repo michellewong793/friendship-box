@@ -1,2 +1,14 @@
 # friendship-box
-This is a box of things you can play with your friends. It also will be a collection of tools I find for connecting with friends. It's all about friendship and love here. 
+
+Problem: 
+Pandemic going on, but I still want to connect with my friends 
+
+Hypothesis:
+The internet has tools for us to connect 
+
+Examples:
+Netflix Party
+House Party games 
+Spotify Share music feature 
+
+**Please feel free to contribute ideas on how you're connecting with friends.** 
